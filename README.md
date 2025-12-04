@@ -2,7 +2,7 @@
 https://hub.docker.com/r/ys659/assignment13
 
 # Testing
-pip install playwright (Installing Playwright)
+pip install playwright
 
 pytest
 
