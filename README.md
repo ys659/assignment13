@@ -1,5 +1,10 @@
-# Docker Image:
+# Docker Image
 https://hub.docker.com/r/ys659/assignment13
+
+# Testing
+# Playwright install
+$ pip install playwright
+$ pytest
 
 # 📦 Project Setup
 
