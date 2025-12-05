@@ -4,6 +4,9 @@ https://hub.docker.com/r/ys659/assignment13
 # Testing
 pip install playwright
 
+# GI Actions update
+<img src="GH Actions.png" width="80%">
+
 pytest
 
 # 📦 Project Setup
